@@ -1,0 +1,30 @@
+.block1{
+    color:	#A9A9A9;
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+
+}
+.block0{
+    background-image: url("https://media.giphy.com/media/aRZ4vTsHnyW6A/giphy.gif");
+    height: 250px;
+}
+
+.container{
+    text-align: center;
+}
+.fb{
+    height: 50px;
+    width: 80px;
+}
+.insta{
+    height: 45px;
+    width: 35px;
+}
+.otp{
+    background-color:papayawhip;
+    height: 250px;
+    padding: 50px;
+    margin:20px;
+    border-radius: 10px;
+}
